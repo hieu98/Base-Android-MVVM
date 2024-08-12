@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Base Android MVVM</string>
+
+    <string name="des_unsupported_wallpaper">Wallpaper is not supported.</string>
+    <string name="des_loading_set_wallpaper">Let\'s wait for a stunning wallpaper!</string>
+    <string name="des_apply_wallpaper_success">Applied Successfully!</string>
+</resources>
